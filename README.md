@@ -1,0 +1,2 @@
+# friday-
+friday class exercise
